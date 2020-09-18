@@ -1,0 +1,36 @@
+div.container {
+  margin-top:20px;
+}
+.tekstiKuq {
+  color:#f00;
+}
+
+.meTeMedha {
+  text-transform: uppercase;
+}
+
+/* ===== Stilimi i vete listes ==== */
+ol {
+  background:#ff9999;
+  padding:20px;
+}
+
+ol li {
+   background:#ffe5e5;
+   padding:5px;
+   margin-left:25px;
+}
+
+ul.listaTualet {
+  background: #3399ff;
+  padding:20px;+
+}
+
+ul.listaTualet li {
+  background:#cce5ff;
+  margin:5px;
+}
+
+ul.listaTualet li.trt {
+  background:#787878;
+}
