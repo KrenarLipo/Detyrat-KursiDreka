@@ -1,1 +1,3 @@
-
+A) Kemi nje tabele makinat = ["Mercedez", "Fiat", "Range Rover", "BMW", "Ford", "Porche"]
+B) Te krijohet nje funksion ne JavaScript qe pasi me gjen vendodhjen e makines "BMW" e ruan ate ne nje variabel.
+C) Te afishohen ne nje faqe html te gjitha makinat deri tek BMW, kur klikojme nje buton  
