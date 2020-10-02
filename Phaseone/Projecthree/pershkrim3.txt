@@ -1,1 +1,7 @@
 
+A.Te krijohet nje one page website, me menune Rreth nesh, Ofertat, Kontakti
+B. Sektori rreth nesh ka nje tekst te caktuar 
+C. Sektori Ofertat ka nje sektore me 3 tabe, kur secili tab afishon nje oferte me titull, nje imazhe edhe nje tekst
+D. Sektori Kontakti ka nje forme me validim
+E. Gjitheashtu website-i ka edhe nje slider ne krye
+F. Website eshte me teme shitje domainesh edhe hostesh online
