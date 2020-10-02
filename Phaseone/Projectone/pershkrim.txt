@@ -1,1 +1,5 @@
-
+A. Te krijohet nje website i thjeshte me nje menu me tre faqe: Home, About Us dhe Contact page
+B. Website-i duhet te jete i stilizuar bukur edhe te kete si teme tregtimin e makinave
+C. Tek home i website-it do kemi nje slider me makina te mira, me poshte do kemi dy kolona ku ne nje krah te jene listuar makinat me cmimet e tyre, edhe ne krahun tjeter te kemi 3 butona qe shfaqin makinat me cmimet me te larta, me cmimet me te ulta, edhe cmimin e nje makine me 12 keste te barabarta
+D. Tek about us do kesh nje header image, ne gjithe ekranin , edhe poshte saj nje tekst pershkrues per kompanine
+E. Tek faqja e kontaktit do kemi vetem nje forme me validim, qe ka si fielde: emer, email, numer telefoni dhe nje button dergo
