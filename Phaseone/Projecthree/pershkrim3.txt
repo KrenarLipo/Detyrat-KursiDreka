@@ -5,3 +5,5 @@ C. Sektori Ofertat ka nje sektore me 3 tabe, kur secili tab afishon nje oferte m
 D. Sektori Kontakti ka nje forme me validim
 E. Gjitheashtu website-i ka edhe nje slider ne krye
 F. Website eshte me teme shitje domainesh edhe hostesh online
+
+Grupi Spathi
