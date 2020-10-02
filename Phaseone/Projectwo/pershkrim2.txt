@@ -1,1 +1,6 @@
 
+A. Te krijohet nje website i thjeshte me 3 sektor ne menu Home, Latest News, Contact us
+B. Website te jete i stilizuar bukur me teme kryesore Gazetarine
+C. Ne home do kemi nje slider, nje section te ndare ne 3 kolona, ku tek njera eshte emaili, tek tjetra numri i telefonit, edhe tek e treta rrjetet sociale. Secila nga keto kur klikohet do kryej nje funksionalitet. Kur klikon emailin te dergon ne dergimin e nje emaili, kur klikon telefonin te dergon tek nje dritare ku pret qe ta besh call, ndersa tek rrjetet sociale mund te heqim rrjetet qe nuk na interesojne kur i klikojme
+D. Tek faqja latest news do kemi nje faqe te ndare ne dy sektor, sektori i pare qe ka nje pershkrim te temave me aktuale, sektori i dyte qe shfaq 5 newset me te fundit ne formen e sliderit
+E. Tek faqja contact us, do kemi ekranin te ndare ne dy pjese, ne nje vend do kete nje forme me emer, mbiemer, numertelefoni, email edhe nje buton submit. Kur klikojme butonin submit te shfaqet nje alert qe ka emrin edhe numrin e telefonint me nje mesazh qe shkruan "Personi me emrin filan edhe me numrin filan ju shkruajti"
