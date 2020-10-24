@@ -2,10 +2,11 @@ Projekt 30 pikesh, keshtu qe dilni sa me mire.
 SUKSESE!
  
 1. Elvi Saliasi -> Tema e reklamave te makinave (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti) 
-wp-admi => user: Elvi ; pass => Elvi2020!
+wp-admin => user: Elvi ; pass => Elvi2020!
 
+2. Adelina Sadiku -> Tema e makinave me qera (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
+wp-admin => user: Adelina ; pass => Adelina2020!
 
-Adelina Sadiku -> Tema e makinave me qera (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
 Erlind Brahimaj -> Shitje online te rrobave (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
 Florie Islamaj -> Tema e nje agjencie turistike (Te detyrueshme: Home, About Us, Contact, Paketat, Blog + 1 ose 2 faqe qe do ti)
 Ramaldo Pinjolli -> Website per nje palester (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
