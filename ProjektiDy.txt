@@ -19,10 +19,12 @@ http://websiteshqiptar.com/Ramaldo/wp-admin => user: Ramaldo ; pass => Ramaldo20
 6. Tomailda Stambollxhiu -> Website per adoptim kafshes (Te detyrueshme: Home, About Us, Contact, Kafshet, Dokumenta adoptimi, Blog + 1 ose 2 faqe qe do ti)
 http://websiteshqiptar.com/Tomailda/wp-admin => user: Tomailda ; pass => Tomailda2020!
 
-Eldi Gega -> Website WooCommerce per shitje telefonash (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
+7.Eldi Gega -> Website WooCommerce per shitje telefonash (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
+http://websiteshqiptar.com/Eldi/wp-admin => user: Eldi ; pass => Eldi2020!
+
 Andi Lickollari -> Website per kopani sigurimesh -> (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
 
-8. Emiljana Muharrem -> Website WooCommerce per argjendari (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
+9. Emiljana Muharrem -> Website WooCommerce per argjendari (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
 http://websiteshqiptar.com/Emiljana/wp-admin => user: Emiljana ; pass => Emiljana2020!
 
 Aleksandra Bramati ->Reklamim parfumesh te ndryshme (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
