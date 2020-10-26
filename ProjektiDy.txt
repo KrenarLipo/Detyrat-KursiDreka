@@ -14,7 +14,10 @@ http://websiteshqiptar.com/Erlind/wp-admin => user: Erlind ; pass => Erlind2020!
 http://websiteshqiptar.com/Florie/wp-admin => user: Florie ; pass => Florie2020!
 
 Ramaldo Pinjolli -> Website per nje palester (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
+
 Tomailda Stambollxhiu -> Website per adoptim kafshes (Te detyrueshme: Home, About Us, Contact, Kafshet, Dokumenta adoptimi, Blog + 1 ose 2 faqe qe do ti)
+http://websiteshqiptar.com/Tomailda/wp-admin => user: Tomailda ; pass => Tomailda2020!
+
 Eldi Gega -> Website WooCommerce per shitje telefonash (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
 Andi Lickollari -> Website per kopani sigurimesh -> (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
 
