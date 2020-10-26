@@ -13,20 +13,21 @@ http://websiteshqiptar.com/Erlind/wp-admin => user: Erlind ; pass => Erlind2020!
 4. Florie Islamaj -> Tema e nje agjencie turistike (Te detyrueshme: Home, About Us, Contact, Paketat, Blog + 1 ose 2 faqe qe do ti)
 http://websiteshqiptar.com/Florie/wp-admin => user: Florie ; pass => Florie2020!
 
-Ramaldo Pinjolli -> Website per nje palester (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
+5. Ramaldo Pinjolli -> Website per nje palester (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
+http://websiteshqiptar.com/Ramaldo/wp-admin => user: Ramaldo ; pass => Ramaldo2020!
 
-Tomailda Stambollxhiu -> Website per adoptim kafshes (Te detyrueshme: Home, About Us, Contact, Kafshet, Dokumenta adoptimi, Blog + 1 ose 2 faqe qe do ti)
+6. Tomailda Stambollxhiu -> Website per adoptim kafshes (Te detyrueshme: Home, About Us, Contact, Kafshet, Dokumenta adoptimi, Blog + 1 ose 2 faqe qe do ti)
 http://websiteshqiptar.com/Tomailda/wp-admin => user: Tomailda ; pass => Tomailda2020!
 
 Eldi Gega -> Website WooCommerce per shitje telefonash (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
 Andi Lickollari -> Website per kopani sigurimesh -> (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
 
-5. Emiljana Muharrem -> Website WooCommerce per argjendari (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
+8. Emiljana Muharrem -> Website WooCommerce per argjendari (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
 http://websiteshqiptar.com/Emiljana/wp-admin => user: Emiljana ; pass => Emiljana2020!
 
 Aleksandra Bramati ->Reklamim parfumesh te ndryshme (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
 
-Denis Dervishi -> Website per lajme sportive (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
+10. Denis Dervishi -> Website per lajme sportive (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
 http://websiteshqiptar.com/Denis/wp-admin => user: Denis ; pass => Denis2020!
 
 Selma Avdiu -> Website per marketing online biznesesh (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
