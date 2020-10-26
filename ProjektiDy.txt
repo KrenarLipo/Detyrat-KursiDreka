@@ -25,5 +25,8 @@ Andi Lickollari -> Website per kopani sigurimesh -> (Te detyrueshme: Home, About
 http://websiteshqiptar.com/Emiljana/wp-admin => user: Emiljana ; pass => Emiljana2020!
 
 Aleksandra Bramati ->Reklamim parfumesh te ndryshme (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
+
 Denis Dervishi -> Website per lajme sportive (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
+http://websiteshqiptar.com/Denis/wp-admin => user: Denis ; pass => Denis2020!
+
 Selma Avdiu -> Website per marketing online biznesesh (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
