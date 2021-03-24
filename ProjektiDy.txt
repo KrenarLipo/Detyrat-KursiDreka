@@ -1,38 +1,16 @@
 Projekt 30 pikesh, keshtu qe dilni sa me mire. 
 SUKSESE!
  
-1. Elvi Saliasi -> Tema e reklamave te makinave (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti) 
-http://websiteshqiptar.com/Elvi/wp-admin => user: Elvi ; pass => Elvi2020!
+1.  Tema e reklamave te makinave (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti) 
+2.  Tema e makinave me qera (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
+3.  Shitje online te rrobave (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
+4.  Tema e nje agjencie turistike (Te detyrueshme: Home, About Us, Contact, Paketat, Blog + 1 ose 2 faqe qe do ti)
+5.  Website per nje palester (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
+6.  Website per adoptim kafshes (Te detyrueshme: Home, About Us, Contact, Kafshet, Dokumenta adoptimi, Blog + 1 ose 2 faqe qe do ti)
+7.  Website WooCommerce per shitje telefonash (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
+8.  Website per kopani sigurimesh -> (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
+9.  Website WooCommerce per argjendari (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
+10. Reklamim parfumesh te ndryshme (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
+11. Website per lajme sportive (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
+12. Website per marketing online biznesesh (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
 
-2. Adelina Sadiku -> Tema e makinave me qera (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Adelina/wp-admin => user: Adelina ; pass => Adelina2020!
-
-3. Erlind Brahimaj -> Shitje online te rrobave (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Erlind/wp-admin => user: Erlind ; pass => Erlind2020!
-
-4. Florie Islamaj -> Tema e nje agjencie turistike (Te detyrueshme: Home, About Us, Contact, Paketat, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Florie/wp-admin => user: Florie ; pass => Florie2020!
-
-5. Ramaldo Pinjolli -> Website per nje palester (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Ramaldo/wp-admin => user: Ramaldo ; pass => Ramaldo2020!
-
-6. Tomailda Stambollxhiu -> Website per adoptim kafshes (Te detyrueshme: Home, About Us, Contact, Kafshet, Dokumenta adoptimi, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Tomailda/wp-admin => user: Tomailda ; pass => Tomailda2020!
-
-7.Eldi Gega -> Website WooCommerce per shitje telefonash (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Eldi/wp-admin => user: Eldi ; pass => Eldi2020!
-
-8.Andi Lickollari -> Website per kopani sigurimesh -> (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Andi/wp-admin => user: Andi ; pass => Andi2020!
-
-9. Emiljana Muharrem -> Website WooCommerce per argjendari (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Emiljana/wp-admin => user: Emiljana ; pass => Emiljana2020!
-
-10. Aleksandra Bramati ->Reklamim parfumesh te ndryshme (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Aleksandra/wp-admin => user: Aleksandra ; pass => Aleksandra2020!
-
-11. Denis Dervishi -> Website per lajme sportive (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Denis/wp-admin => user: Denis ; pass => Denis2020!
-
-12. Selma Avdiu -> Website per marketing online biznesesh (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
-http://websiteshqiptar.com/Selma/wp-admin => user: Selma; pass => Selma2020!
