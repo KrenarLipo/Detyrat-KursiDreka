@@ -1,16 +1,16 @@
 Projekt 30 pikesh, keshtu qe dilni sa me mire. 
 SUKSESE!
  
-1.  Tema e reklamave te makinave (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti) 
+1.  Tema e reklamave te makinave (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti) => Fjorela
 2.  Tema e makinave me qera (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
-3.  Shitje online te rrobave (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
-4.  Tema e nje agjencie turistike (Te detyrueshme: Home, About Us, Contact, Paketat, Blog + 1 ose 2 faqe qe do ti)
-5.  Website per nje palester (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
+3.  Shitje online te rrobave (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti) => Keistiana
+4.  Tema e nje agjencie turistike (Te detyrueshme: Home, About Us, Contact, Paketat, Blog + 1 ose 2 faqe qe do ti) => Antonio
+5.  Website per nje palester (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti) => Gilson
 6.  Website per adoptim kafshes (Te detyrueshme: Home, About Us, Contact, Kafshet, Dokumenta adoptimi, Blog + 1 ose 2 faqe qe do ti)
-7.  Website WooCommerce per shitje telefonash (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
-8.  Website per kopani sigurimesh -> (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
-9.  Website WooCommerce per argjendari (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti)
-10. Reklamim parfumesh te ndryshme (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
+7.  Website WooCommerce per shitje telefonash (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti) => Bexheti
+8.  Website per kompani sigurimesh -> (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
+9.  Website WooCommerce per argjendari (Te detyrueshme: Home, About Us, Shop, Products, Cart, Contact, Blog + 1 ose 2 faqe qe do ti) => Gerald
+10. Reklamim parfumesh te ndryshme (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti) => Meni
 11. Website per lajme sportive (Te detyrueshme: Home, About Us, Contact, Blog + 1 ose 2 faqe qe do ti)
 12. Website per marketing online biznesesh (Te detyrueshme: Home, About Us, Contact, Sherbimet, Blog + 1 ose 2 faqe qe do ti)
 
